@@ -28,11 +28,7 @@ public class Hangman {
             } else {
                 guessesLeft--;
                 System.out.println("incorrect, " + guessesLeft + " guesses remaining");
-
-
-
             }
         }
     }
-
 }
